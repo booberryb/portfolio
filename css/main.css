@@ -22,7 +22,14 @@ body {
 /***** HEADER *****/
 
 header {
-  height: 150px;
+  height: 320px;
+}
+
+header img {
+  display: block;
+  margin:auto;
+  padding-top: 20px;
+
 }
 
 header h1 {
@@ -35,8 +42,8 @@ header h1 {
 }
 
 nav {
-  float: right;
-  padding: 50px 40px;
+  padding: 30px 40px;
+  text-align: center;
 }
 
 nav ul li{
