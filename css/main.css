@@ -64,15 +64,14 @@ nav ul li a {
 /***** TOP *****/
 
 #top {
-  background: url('../img/color-love-3.png');
+  background: url('../img/color-love-4.png');
   background-size: cover;
   height: 600px;
-  width: 1200px;
   margin: 0 auto;
 }
 
 #top h2 {
-  width: 900px;
+  width: 870px;
   clear: both;
   float: right;
   text-align: right;
@@ -81,7 +80,7 @@ nav ul li a {
   font-weight: normal;
   line-height: 78px;
   color: #9a9b9b;
-  padding: 75px 0;
+  padding: 130px 0;
 
 }
 
