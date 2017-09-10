@@ -28,17 +28,8 @@ header {
 header img {
   display: block;
   margin:auto;
-  padding-top: 20px;
-
-}
-
-header h1 {
-  color:#d72c59;
-  font-family: 'Quicksand', sans-serif;
-  font-size: 48px;
-  font-weight: normal;
-  padding: 20px 0;
-  text-transform: uppercase;
+  padding-top: 30px;
+  padding-bottom: 20px;
 }
 
 nav {
@@ -55,7 +46,7 @@ nav ul li a {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-weight: normal;
-  padding-left: 80px;
+  padding: 40px;
   text-transform: uppercase;
   text-decoration: none;
 }
@@ -64,7 +55,7 @@ nav ul li a {
 /***** TOP *****/
 
 #top {
-  background: url('../img/color-love-4.png');
+  background: url('../img/color-love-5.png');
   background-size: cover;
   height: 600px;
   margin: 0 auto;
@@ -238,10 +229,10 @@ nav ul li a {
 /***** CONTACT *****/
 
 #contact {
-  background: url('../img/color-love-2.png');
+  background: url('../img/esse-chua-241188.png');
   background-size: cover;
   height: 500px;
-  width: 1200px;
+/**  width: 1200px; **/
   margin: 0 auto;
 }
 
@@ -250,20 +241,20 @@ nav ul li a {
   text-align: center;
 }
 
-#contact .contact-textbox {
+/** #contact .contact-textbox {
   background: white;
   background-size: cover;
   width: 1200px;
   height: 230px;
   margin: auto;
 }
-
+**/
 #contact .contact-textbox h3 {
   color: #d72c59;
   font-family: 'Playfair Display', serif;
   font-size: 36px;
   font-weight: bold;
-  padding-top: 20px;
+  padding-top: 80px;
 }
 
 #contact .contact-textbox h3 span {
@@ -288,7 +279,7 @@ nav ul li a {
   display: inline-block;
   list-style-type: none;
   padding-right: 40px;
-  padding-top: 10px;
+  padding-top: 20px;
 }
 
 
@@ -299,5 +290,5 @@ nav ul li a {
   font-size: 14px;
   font-weight: normal;
   text-align: center;
-  padding: 100px 0px 25px 0px;
+  padding: 50px 0px 25px 0px;
 }
